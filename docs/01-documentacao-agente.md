@@ -3,19 +3,16 @@
 ## Caso de Uso
 
 ### Problema
-> Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+[Pessoas que querem começar a investir frequentemente não sabem qual tipo/categoria de produto financeiro é compatível com seu próprio perfil de risco. Conteúdo genérico (redes sociais, buscas rápidas) não considera o perfil individual, e decidir sem esse alinhamento leva a escolhas desproporcionais ao apetite a risco real da pessoa.]
 
 ### Solução
-> Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+[O agente conduz uma conversa curta para levantar o perfil de risco do usuário (tolerância a perda, prazo do objetivo, experiência prévia) e, com base nisso, explica quais categorias de produtos financeiros tendem a ser mais adequadas, sem recomendar produto ou instituição específica, mantendo caráter educativo e não consultivo.]
 
 ### Público-Alvo
-> Quem vai usar esse agente?
 
-[Sua descrição aqui]
+[Qualquer pessoa interessada em investir, com ou sem experiência prévia, que queira entender qual tipo de produto combina com seu perfil antes de buscar uma decisão específica com uma instituição financeira.Sua descrição aqui]
 
 ---
 
